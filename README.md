@@ -19,7 +19,8 @@ VGT Myrmidon is a **Zero Trust Network Access (ZTNA) endpoint plugin for WordPre
 
 Myrmidon turns your WordPress installation into a **cryptographic device registry and integrity verification system**. Every device that wants to communicate with your server must perform a cryptographic handshake, register with a unique keypair, and continuously report its integrity status — encrypted end-to-end.
 
-<img width="1473" height="466" alt="myrmidon" src="https://github.com/user-attachments/assets/7d3eeca2-e296-492b-9c2f-2992a40d2aac" />
+
+![myrmidon](https://github.com/user-attachments/assets/0996dcbb-3003-4fa1-ad61-ab1b5ceb9c81)
 
 
 ```
@@ -69,7 +70,7 @@ Myrmidon Ledger (WordPress DB)
 → Master Key stored outside web context
 → Sodium Memory Zeroing after each operation
 ```
-
+<img width="1473" height="466" alt="myrmidon" src="https://github.com/user-attachments/assets/7d3eeca2-e296-492b-9c2f-2992a40d2aac" />
 ---
 
 ## 💎 Feature Set
