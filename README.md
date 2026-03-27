@@ -70,7 +70,9 @@ Myrmidon Ledger (WordPress DB)
 → Master Key stored outside web context
 → Sodium Memory Zeroing after each operation
 ```
-<img width="1473" height="466" alt="myrmidon" src="https://github.com/user-attachments/assets/7d3eeca2-e296-492b-9c2f-2992a40d2aac" />
+<img width="1473" height="466" alt="myrmi" src="https://github.com/user-attachments/assets/11bc6034-943a-4206-852f-94176bc58670" />
+
+
 ---
 
 ## 💎 Feature Set
