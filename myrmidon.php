@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: VGT Myrmidon Core (Zero Trust Endpoint)
- * Plugin URI:  https://visiongaiatechnology.com
+ * Plugin URI:  https://visiongaiatechnology.de
  * Description: OMEGA PLATINUM RECORD: Kryptografischer Zero-Trust Endpoint für WordPress. Bietet X25519 ECDH, Ed25519 Signaturen und AES-256-GCM Verschlüsselung für API-Telemetrie.
  * Version:     1.0.7
  * Author:      VisionGaia Intelligence System
- * Author URI:  https://visiongaiatechnology.com
+ * Author URI:  https://visiongaiatechnology.de
  * License:     AGPLv3
  * License URI: https://www.gnu.org/licenses/agpl-3.0.html
  * Text Domain: vgt-myrmidon
