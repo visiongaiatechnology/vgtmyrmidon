@@ -13,6 +13,14 @@
 
 ---
 
+
+## ⚠️ DISCLAIMER: EXPERIMENTAL R&D PROJECT
+
+This project is a **Proof of Concept (PoC)** Wordpress Security Layer. It is **not** a Enterprise Plugin, and can be unsafe.
+
+**Do not use this in critical production environments.** For enterprise-grade kernel-level protection, we recommend established Solutions.
+
+
 ## 🔍 What is VGT Myrmidon?
 
 VGT Myrmidon is a **Zero Trust Network Access (ZTNA) endpoint plugin for WordPress**. It was originally a core module of the VGT Sentinel security suite and has been extracted and open-sourced as a standalone plugin.
